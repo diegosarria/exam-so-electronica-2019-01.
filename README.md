@@ -1,6 +1,6 @@
-##Respuestas a preguntas planteadas.
+# Respuestas a preguntas planteadas.
 
-*Pregunta #1.
+# Pregunta 1.
 
 tras cerrar la puerta y abrirla despues del for, aumentara el periodo;
 puedo concluir de este ejercicio que el tiempo de el primer cambio al
@@ -14,7 +14,7 @@ los tiempos que me dio fue: 3.185.305sg
 			    3.850.173sg
 			    7.482.592sg
 
-*Pregunta #4.
+# Pregunta 4.
 
 1) Cuando el programa que estamos ejecutando esta indicando que un segundo
    segundo parametro se esta ejecutando en su totalidad, la cpu estara
